@@ -30,3 +30,13 @@ Understand how to implement them, and where application, space & time complexity
 
 <img src="pics/image-20190908155924032.png" alt="image-20190908155924032" style="zoom:50%;" />
 
+6. When creating dictionary from a String, be wary of cases and special characters (e.g. empty spaces)
+
+![image-20190908205223952](pics/image-20190908205223952.png)
+
+7. For type hinting with List, Dict, etc., need to `import typing` first (https://docs.python.org/3/library/typing.html)
+
+![image-20190908214732509](pics/image-20190908214732509.png)
+
+![image-20190908214747275](pics/image-20190908214747275.png)
+
